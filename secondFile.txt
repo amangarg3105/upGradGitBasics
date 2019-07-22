@@ -1,1 +1,3 @@
 This is the first line of secondFile.
+
+This is second line.
